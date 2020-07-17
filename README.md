@@ -1,7 +1,5 @@
-#### learning coding and riding
-
+### learning coding and riding
 [![len's github stats](https://github-readme-stats.vercel.app/api?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/liubin915249126 )
-
 
 [![react-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&repo=react-study&show_owner=true)](https://github.com/liubin915249126/react-study)
 [![javascript](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=javascript&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/javascript)
