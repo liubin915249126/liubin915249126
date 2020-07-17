@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### learning coding and riding
+[![len's github stats](https://github-readme-stats.vercel.app/api?username=liubin915249126)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
