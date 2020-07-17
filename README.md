@@ -3,12 +3,12 @@
 [![len's github stats](https://github-readme-stats.vercel.app/api?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![react-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&repo=react-study&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![javascript](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=javascript&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![vue2-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=vue2-study&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![nodejs](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=nodejs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![HTML-CSS-SVG](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=HTML-CSS-SVG&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![react-native](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=react-native&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![react-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&repo=react-study&show_owner=true)](https://github.com/liubin915249126/react-study)
+[![javascript](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=javascript&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/javascript)
+[![vue2-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=vue2-study&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/vue2-study)
+[![nodejs](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=nodejs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/nodejs)
+[![HTML-CSS-SVG](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=HTML-CSS-SVG&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/HTML-CSS-SVG)
+[![react-native](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=react-native&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/react-native)
 
 
 <!--
