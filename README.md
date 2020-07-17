@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### learning working and riding
+#### learning coding and riding
 
 
 <!--
