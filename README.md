@@ -1,10 +1,17 @@
 #### learning coding and riding
 
 [![len's github stats](https://github-readme-stats.vercel.app/api?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![react-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&repo=react-study&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![javascript](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=javascript&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![vue2-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=vue2-study&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![nodejs](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=nodejs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![HTML-CSS-SVG](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=HTML-CSS-SVG&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![react-native](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=react-native&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
-[![react-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=react-study)](https://github.com/anuraghazra/github-readme-stats)
-[![javascript](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=javascript)](https://github.com/anuraghazra/github-readme-stats)
--->
 <a href="https://github.com/liubin915249126/react-study">
   <img width="450"
 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&repo=react-study&show_owner=true" />
@@ -29,6 +36,9 @@ align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liu
   <img width="450"
        align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&repo=react-native&show_owner=true" />
 </a>
+-->
+
+
 <!--
 **liubin915249126/liubin915249126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,4 +52,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github.com/anuraghazra/github-readme-stats
 -->
