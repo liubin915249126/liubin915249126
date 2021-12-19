@@ -1,12 +1,12 @@
 ### learning coding and riding
 [![len's github stats](https://github-readme-stats.vercel.app/api?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/liubin915249126 )
 
-[![react-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&repo=react-study&show_owner=true)](https://github.com/liubin915249126/react-study)
+<!-- [![react-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&repo=react-study&show_owner=true)](https://github.com/liubin915249126/react-study)
 [![javascript](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=javascript&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/javascript)
 [![vue2-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=vue2-study&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/vue2-study)
 [![nodejs](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=nodejs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/nodejs)
 [![java-study](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=java-study&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/java-study)
-[![HTML-CSS-SVG](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=HTML-CSS-SVG&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/HTML-CSS-SVG)\
+[![HTML-CSS-SVG](https://github-readme-stats.vercel.app/api/pin/?username=liubin915249126&repo=HTML-CSS-SVG&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/liubin915249126/HTML-CSS-SVG) -->
 
 <!--
 <a href="https://github.com/liubin915249126/react-study">
